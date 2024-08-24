@@ -3,7 +3,7 @@
     <string name="header1">TP Nº1</string>
     <string name="btnE1">EJERCICIO 1</string>
     <string name="btnE2">EJERCICIO 2</string>
-    <string name="tvInteg">ANDREA NUÑEZ</string>
+    <string name="tvInteg">ANDREA NUÑEZ \nGABRIEL VARGAS \nESTEFANIA DELGADO \nROBERTO RANGOGNI \nJOSE MORALES </string>
     <string name="header2">Suma</string>
     <string name="tvNro1">Primer Número:</string>
     <string name="tvNro2">Segundo Número:</string>
@@ -11,8 +11,7 @@
     <string name="btnRegresar">Regresar</string>
 
     <string name="header3">Calculadora</string>
-    <string name="tvSumando"></string>
-    <string name="tvRes">0</string>
+    <string name="tvRes"></string>
 
     <string name="btn7">7</string>
     <string name="btn8">8</string>

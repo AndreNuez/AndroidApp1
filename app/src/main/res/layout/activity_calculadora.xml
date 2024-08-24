@@ -46,49 +46,53 @@
             android:orientation="vertical">
 
             <Button
-                android:id="@+id/btnDivi"
+                android:id="@+id/btn7"
                 android:layout_width="80dp"
                 android:layout_height="90dp"
                 android:layout_marginLeft="15dp"
                 android:layout_marginRight="10dp"
                 android:layout_span="1"
-                android:background="#9A9A9A"
                 android:backgroundTint="#9A9A9A"
                 android:text="@string/btn7"
+                android:textSize="34sp"
+                app:cornerRadius="0dp"
                 app:iconTint="#9A9A9A" />
 
             <Button
-                android:id="@+id/btnDivi"
+                android:id="@+id/btn8"
                 android:layout_width="80dp"
                 android:layout_height="90dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_span="1"
-                android:background="#9A9A9A"
+                android:textSize="34sp"
+                app:cornerRadius="0dp"
                 android:backgroundTint="#9A9A9A"
                 android:text="@string/btn8"
                 app:iconTint="#9A9A9A" />
 
             <Button
-                android:id="@+id/btnDivi"
+                android:id="@+id/btn9"
                 android:layout_width="80dp"
                 android:layout_height="90dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_span="1"
-                android:background="#9A9A9A"
+                android:textSize="34sp"
+                app:cornerRadius="0dp"
                 android:backgroundTint="#9A9A9A"
                 android:text="@string/btn9"
                 app:iconTint="#9A9A9A" />
 
             <Button
-                android:id="@+id/btnDivi"
+                android:id="@+id/btnMas"
                 android:layout_width="80dp"
                 android:layout_height="90dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_span="1"
-                android:background="#9A9A9A"
+                android:textSize="34sp"
+                app:cornerRadius="0dp"
                 android:backgroundTint="#9A9A9A"
                 android:text="@string/btnMas"
                 app:iconTint="#9A9A9A" />
@@ -102,48 +106,53 @@
             android:orientation="vertical">
 
             <Button
-                android:id="@+id/btnDivi"
+                android:id="@+id/btn4"
                 android:layout_width="80dp"
                 android:layout_height="90dp"
                 android:layout_marginLeft="15dp"
                 android:layout_marginRight="10dp"
                 android:layout_span="1"
-                android:background="#9A9A9A"
+                android:textSize="34sp"
+                app:cornerRadius="0dp"
                 android:backgroundTint="#9A9A9A"
                 android:text="@string/btn4"
                 app:iconTint="#9A9A9A" />
 
             <Button
+                android:id="@+id/btn5"
                 android:layout_width="80dp"
                 android:layout_height="90dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_span="1"
-                android:background="#9A9A9A"
                 android:backgroundTint="#9A9A9A"
                 android:text="@string/btn5"
+                android:textSize="34sp"
+                app:cornerRadius="0dp"
                 app:iconTint="#9A9A9A" />
 
             <Button
-                android:id="@+id/btnDivi"
+                android:id="@+id/btn6"
                 android:layout_width="80dp"
                 android:layout_height="90dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_span="1"
-                android:background="#9A9A9A"
+                android:textSize="34sp"
+                app:cornerRadius="0dp"
                 android:backgroundTint="#9A9A9A"
                 android:text="@string/btn6"
                 app:iconTint="#9A9A9A" />
 
             <Button
-                android:id="@+id/btnDivi"
+                android:id="@+id/btnMenos"
                 android:layout_width="80dp"
                 android:layout_height="90dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_span="1"
-                android:background="#9A9A9A"
+                android:textSize="34sp"
+                app:cornerRadius="0dp"
                 android:backgroundTint="#9A9A9A"
                 android:text="@string/btnMenos"
                 app:iconTint="#9A9A9A" />
@@ -157,49 +166,53 @@
             android:orientation="vertical">
 
             <Button
-                android:id="@+id/btnDivi"
+                android:id="@+id/btn1"
                 android:layout_width="80dp"
                 android:layout_height="90dp"
                 android:layout_marginLeft="15dp"
                 android:layout_marginRight="10dp"
                 android:layout_span="1"
-                android:background="#9A9A9A"
+                android:textSize="34sp"
+                app:cornerRadius="0dp"
                 android:backgroundTint="#9A9A9A"
                 android:text="@string/btn1"
                 app:iconTint="#9A9A9A" />
 
             <Button
-                android:id="@+id/btnDivi"
+                android:id="@+id/btn2"
                 android:layout_width="80dp"
                 android:layout_height="90dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_span="1"
-                android:background="#9A9A9A"
+                android:textSize="34sp"
+                app:cornerRadius="0dp"
                 android:backgroundTint="#9A9A9A"
                 android:text="@string/btn2"
                 app:iconTint="#9A9A9A" />
 
             <Button
-                android:id="@+id/btnDivi"
+                android:id="@+id/btn3"
                 android:layout_width="80dp"
                 android:layout_height="90dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_span="1"
-                android:background="#9A9A9A"
+                android:textSize="34sp"
+                app:cornerRadius="0dp"
                 android:backgroundTint="#9A9A9A"
                 android:text="@string/btn3"
                 app:iconTint="#9A9A9A" />
 
             <Button
-                android:id="@+id/btnDivi"
+                android:id="@+id/btnMulti"
                 android:layout_width="80dp"
                 android:layout_height="90dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_span="1"
-                android:background="#9A9A9A"
+                android:textSize="34sp"
+                app:cornerRadius="0dp"
                 android:backgroundTint="#9A9A9A"
                 android:text="@string/btnMulti"
                 app:iconTint="#9A9A9A" />
@@ -213,13 +226,13 @@
             android:orientation="vertical">
 
             <Button
-                android:id="@+id/btnDivi"
+                android:id="@+id/btnBorrar"
                 android:layout_width="80dp"
                 android:layout_height="90dp"
                 android:layout_marginLeft="15dp"
                 android:layout_marginRight="10dp"
                 android:layout_span="1"
-                android:background="#9A9A9A"
+                app:cornerRadius="0dp"
                 android:backgroundTint="#9A9A9A"
                 android:text="@string/btnBorrar"
                 android:textAlignment="textStart"
@@ -228,25 +241,27 @@
                 app:iconTint="#9A9A9A" />
 
             <Button
-                android:id="@+id/btnDivi"
+                android:id="@+id/btn0"
                 android:layout_width="80dp"
                 android:layout_height="90dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_span="1"
-                android:background="#9A9A9A"
+                android:textSize="34sp"
+                app:cornerRadius="0dp"
                 android:backgroundTint="#9A9A9A"
                 android:text="@string/btn0"
                 app:iconTint="#9A9A9A" />
 
             <Button
-                android:id="@+id/btnDivi"
+                android:id="@+id/btnIgual"
                 android:layout_width="80dp"
                 android:layout_height="90dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_span="1"
-                android:background="#9A9A9A"
+                app:cornerRadius="0dp"
+                android:textSize="34sp"
                 android:backgroundTint="#9A9A9A"
                 android:text="@string/btnIgual"
                 app:iconTint="#9A9A9A" />
@@ -258,7 +273,8 @@
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_span="1"
-                android:background="#9A9A9A"
+                app:cornerRadius="0dp"
+                android:textSize="34sp"
                 android:backgroundTint="#9A9A9A"
                 android:text="@string/btnDivi"
                 app:iconTint="#9A9A9A" />
@@ -268,41 +284,30 @@
     </TableLayout>
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnRegresar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="60dp"
-        android:background="#9A9A9A"
+        android:layout_marginTop="8dp"
         android:backgroundTint="#9A9A9A"
         android:onClick="Regresar"
         android:text="@string/btnRegresar"
+        android:textSize="20sp"
+        app:cornerRadius="0dp"
         app:iconTint="#9A9A9A"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tableLayout" />
 
     <TextView
-        android:id="@+id/tvSumando"
-        android:layout_width="81dp"
-        android:layout_height="33dp"
-        android:layout_marginTop="16dp"
-        android:layout_marginEnd="20dp"
-        android:text="@string/tvSumando"
-        android:textAlignment="textEnd"
-        android:textSize="20sp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/toolbar" />
-
-    <TextView
         android:id="@+id/tvResultado"
         android:layout_width="74dp"
         android:layout_height="54dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="20dp"
+        android:layout_marginTop="52dp"
+        android:layout_marginEnd="24dp"
         android:text="@string/tvRes"
         android:textAlignment="textEnd"
         android:textIsSelectable="false"
         android:textSize="48sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tvSumando" />
+        app:layout_constraintTop_toBottomOf="@+id/toolbar" />
 </androidx.constraintlayout.widget.ConstraintLayout>

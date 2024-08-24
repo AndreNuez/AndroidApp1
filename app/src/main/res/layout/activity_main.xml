@@ -50,6 +50,7 @@
         android:layout_marginStart="140dp"
         android:layout_marginTop="32dp"
         android:background="#9A9A9A"
+        android:onClick="Ejercicio2"
         android:text="@string/btnE2"
         app:backgroundTint="#9A9A9A"
         app:layout_constraintStart_toStartOf="parent"

@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void Ejercicio2 (View view){
-        Intent ejercicio2= new Intent(this, SumaActivity.class);
+        Intent ejercicio2= new Intent(this, CalculadoraActivity.class);
         startActivity(ejercicio2);
     }
 }
